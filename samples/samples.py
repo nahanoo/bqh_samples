@@ -11,6 +11,18 @@ class Samples():
         self.df = pd.read_csv(self.sample_sheet,dtype=str)
         self.strains = dict()
 
+        #Adding abbreviations for convenience
+        self.abbreviations = dict()
+        self.abbreviations['Comamonas testosteroni'] = 'ct'
+        self.abbreviations['Agrobacterium tumefaciens'] = 'at'
+        self.abbreviations['Microbacterium saperdae'] = 'ms'
+        self.abbreviations['Ochrobactrum anthropi'] = 'oa'
+
+        self.abbreviations['ct'] = 'Comamonas testosteroni'
+        self.abbreviations['at'] = 'Agrobacterium tumefaciens'
+        self.abbreviations['ms'] = 'Microbacterium saperdae'
+        self.abbreviations['oa'] = 'Ochrobactrum anthropi'
+
         #Adding reference fastas to class
         self.references = dict()
         self.references['Comamonas testosteroni'] = '/users/eulrich/evomicrocomm/references/ct/ct.fasta'
