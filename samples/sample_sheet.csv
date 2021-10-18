@@ -120,43 +120,43 @@ dir_name,sample_name,strain,platform,valid,problem,indel_feasable,problem
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ct,T22.4.3,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/at,T22.4.3,Agrobacterium tumefaciens,illumina,TRUE,,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ms,T22.4.3,Microbacterium saperdae,illumina,FALSE,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/oa,T22.4.4,Ochrobactrum anthropi,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ct,T22.4.4,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/at,T22.4.4,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ms,T22.4.4,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/oa,T22.4.5,Ochrobactrum anthropi,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ct,T22.4.5,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/at,T22.4.5,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ms,T22.4.5,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.1/at,T33.1.1,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.2/at,T33.1.2,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.1.rep/ct,T33.2.1.rep,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.2.rep/ct,T33.2.2.rep,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.3.rep/ct,T33.2.3.rep,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.4.rep/ct,T33.2.4.rep,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.5.rep/ct,T33.2.5.rep,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ct,T33.3.1,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/at,T33.3.1,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ms,T33.3.1,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ct,T33.3.2,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/at,T33.3.2,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ms,T33.3.2,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ct,T33.3.3,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/at,T33.3.3,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ms,T33.3.3,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ct,T33.3.4,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/at,T33.3.4,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ms,T33.3.4,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ct,T33.3.5,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/at,T33.3.5,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ms,T33.3.5,Microbacterium saperdae,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/oa,T33.4.1,Ochrobactrum anthropi,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ct,T33.4.1,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/at,T33.4.1,Agrobacterium tumefaciens,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ms,T33.4.1,Microbacterium saperdae,illumina,,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/oa,T22.4.4,Ochrobactrum anthropi,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ct,T22.4.4,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/at,T22.4.4,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ms,T22.4.4,Microbacterium saperdae,illumina,FALSE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/oa,T22.4.5,Ochrobactrum anthropi,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ct,T22.4.5,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/at,T22.4.5,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ms,T22.4.5,Microbacterium saperdae,illumina,FALSE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.1/at,T33.1.1,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.2/at,T33.1.2,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.1.rep/ct,T33.2.1.rep,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.2.rep/ct,T33.2.2.rep,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.3.rep/ct,T33.2.3.rep,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.4.rep/ct,T33.2.4.rep,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.5.rep/ct,T33.2.5.rep,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ct,T33.3.1,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/at,T33.3.1,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ms,T33.3.1,Microbacterium saperdae,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ct,T33.3.2,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/at,T33.3.2,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ms,T33.3.2,Microbacterium saperdae,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ct,T33.3.3,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/at,T33.3.3,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ms,T33.3.3,Microbacterium saperdae,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ct,T33.3.4,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/at,T33.3.4,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ms,T33.3.4,Microbacterium saperdae,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ct,T33.3.5,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/at,T33.3.5,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ms,T33.3.5,Microbacterium saperdae,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/oa,T33.4.1,Ochrobactrum anthropi,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ct,T33.4.1,Comamonas testosteroni,illumina,TRUE,,FALSE,Few sequenced biased low coverage areas
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/at,T33.4.1,Agrobacterium tumefaciens,illumina,TRUE,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ms,T33.4.1,Microbacterium saperdae,illumina,FALSE,coverage,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/oa,T33.4.2,Ochrobactrum anthropi,illumina,,,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ct,T33.4.2,Comamonas testosteroni,illumina,,,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/at,T33.4.2,Agrobacterium tumefaciens,illumina,,,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/at,T33.4.2,Agrobacterium tumefaciens,illumina,TRUE,,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ms,T33.4.2,Microbacterium saperdae,illumina,,,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/oa,T33.4.3.rep,Ochrobactrum anthropi,illumina,,,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/ct,T33.4.3.rep,Comamonas testosteroni,illumina,,,,
