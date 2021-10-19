@@ -23,26 +23,20 @@ class Samples():
       
         """For every strain and treatment we create a  list of dictionaries with
         the information about directory, sample name, treatment and sequencing platform"""
-        keys = ['dir_name','name','strain','platform','timepoint','treatment','cosm']
-        meta = {key:None for key in keys}
-
-        keys = ['Agrobacterium tumefaciens','Comamonas testosteroni',\
+        
+        strains = ['Agrobacterium tumefaciens','Comamonas testosteroni',\
             'Microbacterium saperdae','Ochrobactrum anthropi']
-        self.strains = {k:list() for k in keys}
+        self.strains = {k:list() for k in strains}
 
-        keys = [1,2,3,4]
-        self.treatments = {k:list() for k in keys}        
-        self.samples = {name:meta for name in self.df['sample_name']}
-
+        keys = ['dir_name','name','strain','platform','timepoint','treatment','cosm']
+        
         for i,row in self.df.iterrows():
+            meta = {key:None for key in keys}
             meta['dir_name'] = row['dir_name']
             meta['name'] = row['sample_name']
             meta['strain'] = row['strain']
             meta['platform'] = row['platform']
             meta['timepoint'] = row['timepoint']
             meta['treatment'] = int(row['treatment'])
-            meta['cosm'] = int(row['cosm'])
-            
-            self.samples[row['sample_name']] = meta
-            self.treatments[int(row['treatment'])].append(meta)
+            meta['cosm'] = int(row['cosm'])            
             self.strains[row['strain']].append(meta)
