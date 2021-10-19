@@ -9,7 +9,6 @@ class Samples():
     def __init__(self):
         self.sample_sheet = pkg_resources.resource_filename('samples','sample_sheet.csv')
         self.df = pd.read_csv(self.sample_sheet,dtype=str)
-        self.strains = dict()
 
         #Adding abbreviations for convenience
         self.abbreviations = dict()
@@ -30,8 +29,10 @@ class Samples():
         self.references['Microbacterium saperdae'] = '/users/eulrich/evomicrocomm/references/ms/ms.fasta'
         self.references['Ochrobactrum anthropi'] = '/users/eulrich/evomicrocomm/references/oa/oa.fasta'
       
-        """For every strain we create a  list of dictionaries with
+        """For every strain and treatment we create a  list of dictionaries with
         the information about directory, sample name, treatment and sequencing platform"""
+        self.strains = dict()
+        self.treatments = {1:[],2:[],3:[],4:[]}
         strains = set(self.df['strain'])
         for strain in strains:
             self.strains[strain] = []
@@ -40,9 +41,11 @@ class Samples():
                 meta = dict()
                 meta['dir'] = row.dir_name
                 meta['name'] = row.sample_name
+                meta['strain'] = strain
                 if row.platform == 'pacbio':
                     meta['treatment'] = int(row.sample_name[2])
                 if row.platform == 'illumina':
                     meta['treatment'] = int(row.sample_name[4])
                 meta['platform'] = row.platform
                 self.strains[strain].append(meta)
+                self.treatments[meta['treatment']].append(meta)
