@@ -40,8 +40,8 @@ class Samples():
             meta['strain'] = row['strain']
             meta['platform'] = row['platform']
             meta['timepoint'] = row['timepoint']
-            meta['treatment'] = row['treatment']
-            meta['cosm'] = row['cosm']
+            meta['treatment'] = int(row['treatment'])
+            meta['cosm'] = int(row['cosm'])
             
             self.samples[row['sample_name']] = meta
             self.treatments[int(row['treatment'])].append(meta)
