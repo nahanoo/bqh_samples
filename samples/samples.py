@@ -28,8 +28,12 @@ class Samples():
             'Microbacterium saperdae','Ochrobactrum anthropi']
         self.strains = {k:list() for k in strains}
 
+        self.treatments = {'Agrobacterium tumefaciens':[1,3,4],
+            'Comamonas testosteroni':[2,3,4],
+            'Microbacterium saperdae':[3,4],
+            'Ochrobactrum anthropi':[4]}
+
         keys = ['dir_name','name','strain','platform','timepoint','treatment','cosm']
-        
         for i,row in self.df.iterrows():
             meta = {key:None for key in keys}
             meta['dir_name'] = row['dir_name']
@@ -38,5 +42,5 @@ class Samples():
             meta['platform'] = row['platform']
             meta['timepoint'] = row['timepoint']
             meta['treatment'] = int(row['treatment'])
-            meta['cosm'] = int(row['cosm'])            
+            meta['cosm'] = int(row['cosm'])
             self.strains[row['strain']].append(meta)
