@@ -1,4 +1,4 @@
-import re
+from os.path import join
 import pandas as pd
 import pkg_resources
 
@@ -9,6 +9,8 @@ class Samples():
     def __init__(self):
         self.sample_sheet = pkg_resources.resource_filename('samples','sample_sheet.csv')
         self.df = pd.read_csv(self.sample_sheet,dtype=str)
+        
+        self.work = '/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/'
 
         #Adding abbreviations for convenience
         self.abbreviations = dict()
@@ -21,9 +23,6 @@ class Samples():
         self.abbreviations['ms'] = 'Microbacterium saperdae'
         self.abbreviations['oa'] = 'Ochrobactrum anthropi'
       
-        """For every strain and treatment we create a  list of dictionaries with
-        the information about directory, sample name, treatment and sequencing platform"""
-        
         strains = ['Agrobacterium tumefaciens','Comamonas testosteroni',\
             'Microbacterium saperdae','Ochrobactrum anthropi']
         self.strains = {k:list() for k in strains}
@@ -33,6 +32,14 @@ class Samples():
             'Microbacterium saperdae':[3,4],
             'Ochrobactrum anthropi':[4]}
 
+        work = '/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data'
+        self.references = {'Agrobacterium tumefaciens':join(work,'at','reference.fasta'),
+            'Comamonas testosteroni':join(work,'ct','reference.fasta'),
+            'Microbacterium saperdae':join(work,'ms','reference.fasta'),
+            'Ochrobactrum anthropi':join(work,'oa','reference.fasta')}
+
+        """For every strain and treatment we create a  list of dictionaries with
+        the information about directory, sample name, treatment and sequencing platform"""
         keys = ['dir_name','name','strain','platform','timepoint','treatment','cosm']
         for i,row in self.df.iterrows():
             meta = {key:None for key in keys}
