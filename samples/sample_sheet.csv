@@ -1,214 +1,214 @@
-dir_name,sample_name,strain,treatment,cosm,timepoint,platform,valid,problem,indel_feasable,problem.1
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At11.7,At11.7,Agrobacterium tumefaciens,1,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At11.8,At11.8,Agrobacterium tumefaciens,1,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At12.1,At12.1,Agrobacterium tumefaciens,1,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At31.1,At31.1,Agrobacterium tumefaciens,3,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At32.1,At32.1,Agrobacterium tumefaciens,3,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At33.1,At33.1,Agrobacterium tumefaciens,3,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At34.1,At34.1,Agrobacterium tumefaciens,3,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At35.1,At35.1,Agrobacterium tumefaciens,3,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At41.1,At41.1,Agrobacterium tumefaciens,4,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At42.1,At42.1,Agrobacterium tumefaciens,4,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At43.1,At43.1,Agrobacterium tumefaciens,4,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At44.1,At44.1,Agrobacterium tumefaciens,4,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At45.1,At45.1,Agrobacterium tumefaciens,4,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct21.1,Ct21.1,Comamonas testosteroni,2,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct22.1,Ct22.1,Comamonas testosteroni,2,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct23.1,Ct23.1,Comamonas testosteroni,2,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct24.1,Ct24.1,Comamonas testosteroni,2,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct25.1,Ct25.1,Comamonas testosteroni,2,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct31.1,Ct31.1,Comamonas testosteroni,3,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct32.1,Ct32.1,Comamonas testosteroni,3,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct33.1,Ct33.1,Comamonas testosteroni,3,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct34.1,Ct34.1,Comamonas testosteroni,3,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct35.1,Ct35.1,Comamonas testosteroni,3,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct41.1,Ct41.1,Comamonas testosteroni,4,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct42.1,Ct42.1,Comamonas testosteroni,4,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct42.2,Ct42.2,Comamonas testosteroni,4,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct43.1,Ct43.1,Comamonas testosteroni,4,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct44.1,Ct44.1,Comamonas testosteroni,4,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct45.1,Ct45.1,Comamonas testosteroni,4,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms31.1,Ms31.1,Microbacterium saperdae,3,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms32.1,Ms32.1,Microbacterium saperdae,3,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms33.1,Ms33.1,Microbacterium saperdae,3,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms34.1,Ms34.1,Microbacterium saperdae,3,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms35.1,Ms35.1,Microbacterium saperdae,3,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms42.1,Ms42.1,Microbacterium saperdae,4,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms43.1,Ms43.1,Microbacterium saperdae,4,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms45.1,Ms45.1,Microbacterium saperdae,4,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa41.1,Oa41.1,Ochrobactrum anthropi,4,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa41.2,Oa41.2,Ochrobactrum anthropi,4,1,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa42.1,Oa42.1,Ochrobactrum anthropi,4,2,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa43.1,Oa43.1,Ochrobactrum anthropi,4,3,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa44.1,Oa44.1,Ochrobactrum anthropi,4,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa44.7,Oa44.7,Ochrobactrum anthropi,4,4,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa45.1,Oa45.1,Ochrobactrum anthropi,4,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa45.2,Oa45.2,Ochrobactrum anthropi,4,5,T44,pacbio,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.1.1/at,T11.1.1,Agrobacterium tumefaciens,1,1,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.1.2/at,T11.1.2,Agrobacterium tumefaciens,1,2,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.1/ct,T11.2.1,Comamonas testosteroni,2,1,T11,illumina,False,contamination,False,contamination
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.2.rep/ct,T11.2.2.rep,Comamonas testosteroni,2,2,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.3/ct,T11.2.3,Comamonas testosteroni,2,3,T11,illumina,False,contamination,False,contamination
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.4.rep/ct,T11.2.4.rep,Comamonas testosteroni,2,4,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.5.rep/ct,T11.2.5.rep,Comamonas testosteroni,2,5,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/ct,T11.3.1,Comamonas testosteroni,3,1,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/at,T11.3.1,Agrobacterium tumefaciens,3,1,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/ms,T11.3.1,Microbacterium saperdae,3,1,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/ct,T11.3.2,Comamonas testosteroni,3,2,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/at,T11.3.2,Agrobacterium tumefaciens,3,2,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/ms,T11.3.2,Microbacterium saperdae,3,2,T11,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/ct,T11.3.3,Comamonas testosteroni,3,3,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/at,T11.3.3,Agrobacterium tumefaciens,3,3,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/ms,T11.3.3,Microbacterium saperdae,3,3,T11,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/ct,T11.3.4,Comamonas testosteroni,3,4,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/at,T11.3.4,Agrobacterium tumefaciens,3,4,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/ms,T11.3.4,Microbacterium saperdae,3,4,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/ct,T11.3.5,Comamonas testosteroni,3,5,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/at,T11.3.5,Agrobacterium tumefaciens,3,5,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/ms,T11.3.5,Microbacterium saperdae,3,5,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/oa,T11.4.1,Ochrobactrum anthropi,4,1,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/ct,T11.4.1,Comamonas testosteroni,4,1,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/at,T11.4.1,Agrobacterium tumefaciens,4,1,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/ms,T11.4.1,Microbacterium saperdae,4,1,T11,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/oa,T11.4.2,Ochrobactrum anthropi,4,2,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/ct,T11.4.2,Comamonas testosteroni,4,2,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/at,T11.4.2,Agrobacterium tumefaciens,4,2,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/ms,T11.4.2,Microbacterium saperdae,4,2,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/oa,T11.4.3,Ochrobactrum anthropi,4,3,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/ct,T11.4.3,Comamonas testosteroni,4,3,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/at,T11.4.3,Agrobacterium tumefaciens,4,3,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/ms,T11.4.3,Microbacterium saperdae,4,3,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/oa,T11.4.4,Ochrobactrum anthropi,4,4,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/ct,T11.4.4,Comamonas testosteroni,4,4,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/at,T11.4.4,Agrobacterium tumefaciens,4,4,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/ms,T11.4.4,Microbacterium saperdae,4,4,T11,illumina,False,contamination,False,contamination
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/oa,T11.4.5,Ochrobactrum anthropi,4,5,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/ct,T11.4.5,Comamonas testosteroni,4,5,T11,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/at,T11.4.5,Agrobacterium tumefaciens,4,5,T11,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/ms,T11.4.5,Microbacterium saperdae,4,5,T11,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.1.1/at,T22.1.1,Agrobacterium tumefaciens,1,1,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.1.2/at,T22.1.2,Agrobacterium tumefaciens,1,2,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.1/ct,T22.2.1,Comamonas testosteroni,2,1,T22,illumina,False,contamination,False,contamination
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.2/ct,T22.2.2,Comamonas testosteroni,2,2,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.3/ct,T22.2.3,Comamonas testosteroni,2,3,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.4/ct,T22.2.4,Comamonas testosteroni,2,4,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.5/ct,T22.2.5,Comamonas testosteroni,2,5,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/ct,T22.3.1,Comamonas testosteroni,3,1,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/at,T22.3.1,Agrobacterium tumefaciens,3,1,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/ms,T22.3.1,Microbacterium saperdae,3,1,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/ct,T22.3.2,Comamonas testosteroni,3,2,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/at,T22.3.2,Agrobacterium tumefaciens,3,2,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/ms,T22.3.2,Microbacterium saperdae,3,2,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/ct,T22.3.3,Comamonas testosteroni,3,3,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/at,T22.3.3,Agrobacterium tumefaciens,3,3,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/ms,T22.3.3,Microbacterium saperdae,3,3,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/ct,T22.3.4,Comamonas testosteroni,3,4,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/at,T22.3.4,Agrobacterium tumefaciens,3,4,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/ms,T22.3.4,Microbacterium saperdae,3,4,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/ct,T22.3.5,Comamonas testosteroni,3,5,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/at,T22.3.5,Agrobacterium tumefaciens,3,5,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/ms,T22.3.5,Microbacterium saperdae,3,5,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/oa,T22.4.1,Ochrobactrum anthropi,4,1,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/ct,T22.4.1,Comamonas testosteroni,4,1,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/at,T22.4.1,Agrobacterium tumefaciens,4,1,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/ms,T22.4.1,Microbacterium saperdae,4,1,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/oa,T22.4.2,Ochrobactrum anthropi,4,2,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/ct,T22.4.2,Comamonas testosteroni,4,2,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/at,T22.4.2,Agrobacterium tumefaciens,4,2,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/ms,T22.4.2,Microbacterium saperdae,4,2,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/oa,T22.4.3,Ochrobactrum anthropi,4,3,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ct,T22.4.3,Comamonas testosteroni,4,3,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/at,T22.4.3,Agrobacterium tumefaciens,4,3,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ms,T22.4.3,Microbacterium saperdae,4,3,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/oa,T22.4.4,Ochrobactrum anthropi,4,4,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ct,T22.4.4,Comamonas testosteroni,4,4,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/at,T22.4.4,Agrobacterium tumefaciens,4,4,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ms,T22.4.4,Microbacterium saperdae,4,4,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/oa,T22.4.5,Ochrobactrum anthropi,4,5,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ct,T22.4.5,Comamonas testosteroni,4,5,T22,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/at,T22.4.5,Agrobacterium tumefaciens,4,5,T22,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ms,T22.4.5,Microbacterium saperdae,4,5,T22,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.1/at,T33.1.1,Agrobacterium tumefaciens,1,1,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.2/at,T33.1.2,Agrobacterium tumefaciens,1,2,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.1.rep/ct,T33.2.1.rep,Comamonas testosteroni,2,1,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.2.rep/ct,T33.2.2.rep,Comamonas testosteroni,2,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.3.rep/ct,T33.2.3.rep,Comamonas testosteroni,2,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.4.rep/ct,T33.2.4.rep,Comamonas testosteroni,2,4,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.5.rep/ct,T33.2.5.rep,Comamonas testosteroni,2,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ct,T33.3.1,Comamonas testosteroni,3,1,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/at,T33.3.1,Agrobacterium tumefaciens,3,1,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ms,T33.3.1,Microbacterium saperdae,3,1,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ct,T33.3.2,Comamonas testosteroni,3,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/at,T33.3.2,Agrobacterium tumefaciens,3,2,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ms,T33.3.2,Microbacterium saperdae,3,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ct,T33.3.3,Comamonas testosteroni,3,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/at,T33.3.3,Agrobacterium tumefaciens,3,3,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ms,T33.3.3,Microbacterium saperdae,3,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ct,T33.3.4,Comamonas testosteroni,3,4,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/at,T33.3.4,Agrobacterium tumefaciens,3,4,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ms,T33.3.4,Microbacterium saperdae,3,4,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ct,T33.3.5,Comamonas testosteroni,3,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/at,T33.3.5,Agrobacterium tumefaciens,3,5,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ms,T33.3.5,Microbacterium saperdae,3,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/oa,T33.4.1,Ochrobactrum anthropi,4,1,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ct,T33.4.1,Comamonas testosteroni,4,1,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/at,T33.4.1,Agrobacterium tumefaciens,4,1,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ms,T33.4.1,Microbacterium saperdae,4,1,T33,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/oa,T33.4.2,Ochrobactrum anthropi,4,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ct,T33.4.2,Comamonas testosteroni,4,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/at,T33.4.2,Agrobacterium tumefaciens,4,2,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ms,T33.4.2,Microbacterium saperdae,4,2,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/oa,T33.4.3.rep,Ochrobactrum anthropi,4,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/ct,T33.4.3.rep,Comamonas testosteroni,4,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/at,T33.4.3.rep,Agrobacterium tumefaciens,4,3,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/ms,T33.4.3.rep,Microbacterium saperdae,4,3,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/oa,T33.4.4,Ochrobactrum anthropi,4,4,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/ct,T33.4.4,Comamonas testosteroni,4,4,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/at,T33.4.4,Agrobacterium tumefaciens,4,4,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/ms,T33.4.4,Microbacterium saperdae,4,4,T33,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/oa,T33.4.5,Ochrobactrum anthropi,4,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/ct,T33.4.5,Comamonas testosteroni,4,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/at,T33.4.5,Agrobacterium tumefaciens,4,5,T33,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/ms,T33.4.5,Microbacterium saperdae,4,5,T33,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.1.1/at,T44.1.1,Agrobacterium tumefaciens,1,1,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.1.2/at,T44.1.2,Agrobacterium tumefaciens,1,2,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.1/ct,T44.2.1,Comamonas testosteroni,2,1,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.2.rep/ct,T44.2.2.rep,Comamonas testosteroni,2,2,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.3.rep/ct,T44.2.3.rep,Comamonas testosteroni,2,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.4.rep/ct,T44.2.4.rep,Comamonas testosteroni,2,4,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.5.rep/ct,T44.2.5.rep,Comamonas testosteroni,2,5,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/ct,T44.3.1,Comamonas testosteroni,3,1,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/at,T44.3.1,Agrobacterium tumefaciens,3,1,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/ms,T44.3.1,Microbacterium saperdae,3,1,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/ct,T44.3.2,Comamonas testosteroni,3,2,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/at,T44.3.2,Agrobacterium tumefaciens,3,2,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/ms,T44.3.2,Microbacterium saperdae,3,2,T44,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/ct,T44.3.3.rep,Comamonas testosteroni,3,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/at,T44.3.3.rep,Agrobacterium tumefaciens,3,3,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/ms,T44.3.3.rep,Microbacterium saperdae,3,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/ct,T44.3.4,Comamonas testosteroni,3,4,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/at,T44.3.4,Agrobacterium tumefaciens,3,4,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/ms,T44.3.4,Microbacterium saperdae,3,4,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/ct,T44.3.5,Comamonas testosteroni,3,5,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/at,T44.3.5,Agrobacterium tumefaciens,3,5,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/ms,T44.3.5,Microbacterium saperdae,3,5,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/oa,T44.4.1,Ochrobactrum anthropi,4,1,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/ct,T44.4.1,Comamonas testosteroni,4,1,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/at,T44.4.1,Agrobacterium tumefaciens,4,1,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/ms,T44.4.1,Microbacterium saperdae,4,1,T44,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/oa,T44.4.2,Ochrobactrum anthropi,4,2,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/ct,T44.4.2,Comamonas testosteroni,4,2,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/at,T44.4.2,Agrobacterium tumefaciens,4,2,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/ms,T44.4.2,Microbacterium saperdae,4,2,T44,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/oa,T44.4.3,Ochrobactrum anthropi,4,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/ct,T44.4.3,Comamonas testosteroni,4,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/at,T44.4.3,Agrobacterium tumefaciens,4,3,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/ms,T44.4.3,Microbacterium saperdae,4,3,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/oa,T44.4.4,Ochrobactrum anthropi,4,4,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/ct,T44.4.4,Comamonas testosteroni,4,4,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/at,T44.4.4,Agrobacterium tumefaciens,4,4,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/ms,T44.4.4,Microbacterium saperdae,4,4,T44,illumina,False,coverage,False,coverage
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/oa,T44.4.5.rep,Ochrobactrum anthropi,4,5,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ct,T44.4.5.rep,Comamonas testosteroni,4,5,T44,illumina,True,None,False,sequence bias
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/at,T44.4.5.rep,Agrobacterium tumefaciens,4,5,T44,illumina,True,None,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ms,T44.4.5.rep,Microbacterium saperdae,4,5,T44,illumina,True,None,False,sequence bias
+dir_name,sample_name,strain,treatment,cosm,timepoint,platform,valid,problem
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At11.7,At11.7,Agrobacterium tumefaciens,1,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At11.8,At11.8,Agrobacterium tumefaciens,1,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At12.1,At12.1,Agrobacterium tumefaciens,1,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At31.1,At31.1,Agrobacterium tumefaciens,3,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At32.1,At32.1,Agrobacterium tumefaciens,3,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At33.1,At33.1,Agrobacterium tumefaciens,3,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At34.1,At34.1,Agrobacterium tumefaciens,3,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At35.1,At35.1,Agrobacterium tumefaciens,3,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At41.1,At41.1,Agrobacterium tumefaciens,4,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At42.1,At42.1,Agrobacterium tumefaciens,4,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At43.1,At43.1,Agrobacterium tumefaciens,4,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At44.1,At44.1,Agrobacterium tumefaciens,4,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/At45.1,At45.1,Agrobacterium tumefaciens,4,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct21.1,Ct21.1,Comamonas testosteroni,2,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct22.1,Ct22.1,Comamonas testosteroni,2,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct23.1,Ct23.1,Comamonas testosteroni,2,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct24.1,Ct24.1,Comamonas testosteroni,2,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct25.1,Ct25.1,Comamonas testosteroni,2,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct31.1,Ct31.1,Comamonas testosteroni,3,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct32.1,Ct32.1,Comamonas testosteroni,3,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct33.1,Ct33.1,Comamonas testosteroni,3,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct34.1,Ct34.1,Comamonas testosteroni,3,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct35.1,Ct35.1,Comamonas testosteroni,3,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct41.1,Ct41.1,Comamonas testosteroni,4,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct42.1,Ct42.1,Comamonas testosteroni,4,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct42.2,Ct42.2,Comamonas testosteroni,4,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct43.1,Ct43.1,Comamonas testosteroni,4,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct44.1,Ct44.1,Comamonas testosteroni,4,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ct45.1,Ct45.1,Comamonas testosteroni,4,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms31.1,Ms31.1,Microbacterium saperdae,3,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms32.1,Ms32.1,Microbacterium saperdae,3,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms33.1,Ms33.1,Microbacterium saperdae,3,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms34.1,Ms34.1,Microbacterium saperdae,3,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms35.1,Ms35.1,Microbacterium saperdae,3,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms42.1,Ms42.1,Microbacterium saperdae,4,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms43.1,Ms43.1,Microbacterium saperdae,4,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Ms45.1,Ms45.1,Microbacterium saperdae,4,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa41.1,Oa41.1,Ochrobactrum anthropi,4,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa41.2,Oa41.2,Ochrobactrum anthropi,4,1,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa42.1,Oa42.1,Ochrobactrum anthropi,4,2,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa43.1,Oa43.1,Ochrobactrum anthropi,4,3,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa44.1,Oa44.1,Ochrobactrum anthropi,4,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa44.7,Oa44.7,Ochrobactrum anthropi,4,4,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa45.1,Oa45.1,Ochrobactrum anthropi,4,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/Oa45.2,Oa45.2,Ochrobactrum anthropi,4,5,T44,pacbio,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.1.1/at,T11.1.1,Agrobacterium tumefaciens,1,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.1.2/at,T11.1.2,Agrobacterium tumefaciens,1,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.1/ct,T11.2.1,Comamonas testosteroni,2,1,T11,illumina,False,contamination
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.2.rep/ct,T11.2.2.rep,Comamonas testosteroni,2,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.3/ct,T11.2.3,Comamonas testosteroni,2,3,T11,illumina,False,contamination
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.4.rep/ct,T11.2.4.rep,Comamonas testosteroni,2,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.2.5.rep/ct,T11.2.5.rep,Comamonas testosteroni,2,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/ct,T11.3.1,Comamonas testosteroni,3,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/at,T11.3.1,Agrobacterium tumefaciens,3,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.1/ms,T11.3.1,Microbacterium saperdae,3,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/ct,T11.3.2,Comamonas testosteroni,3,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/at,T11.3.2,Agrobacterium tumefaciens,3,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.2/ms,T11.3.2,Microbacterium saperdae,3,2,T11,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/ct,T11.3.3,Comamonas testosteroni,3,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/at,T11.3.3,Agrobacterium tumefaciens,3,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.3/ms,T11.3.3,Microbacterium saperdae,3,3,T11,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/ct,T11.3.4,Comamonas testosteroni,3,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/at,T11.3.4,Agrobacterium tumefaciens,3,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.4/ms,T11.3.4,Microbacterium saperdae,3,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/ct,T11.3.5,Comamonas testosteroni,3,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/at,T11.3.5,Agrobacterium tumefaciens,3,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.3.5/ms,T11.3.5,Microbacterium saperdae,3,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/oa,T11.4.1,Ochrobactrum anthropi,4,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/ct,T11.4.1,Comamonas testosteroni,4,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/at,T11.4.1,Agrobacterium tumefaciens,4,1,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.1/ms,T11.4.1,Microbacterium saperdae,4,1,T11,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/oa,T11.4.2,Ochrobactrum anthropi,4,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/ct,T11.4.2,Comamonas testosteroni,4,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/at,T11.4.2,Agrobacterium tumefaciens,4,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.2/ms,T11.4.2,Microbacterium saperdae,4,2,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/oa,T11.4.3,Ochrobactrum anthropi,4,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/ct,T11.4.3,Comamonas testosteroni,4,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/at,T11.4.3,Agrobacterium tumefaciens,4,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.3/ms,T11.4.3,Microbacterium saperdae,4,3,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/oa,T11.4.4,Ochrobactrum anthropi,4,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/ct,T11.4.4,Comamonas testosteroni,4,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/at,T11.4.4,Agrobacterium tumefaciens,4,4,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.4/ms,T11.4.4,Microbacterium saperdae,4,4,T11,illumina,False,contamination
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/oa,T11.4.5,Ochrobactrum anthropi,4,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/ct,T11.4.5,Comamonas testosteroni,4,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/at,T11.4.5,Agrobacterium tumefaciens,4,5,T11,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T11.4.5/ms,T11.4.5,Microbacterium saperdae,4,5,T11,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.1.1/at,T22.1.1,Agrobacterium tumefaciens,1,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.1.2/at,T22.1.2,Agrobacterium tumefaciens,1,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.1/ct,T22.2.1,Comamonas testosteroni,2,1,T22,illumina,False,contamination
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.2/ct,T22.2.2,Comamonas testosteroni,2,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.3/ct,T22.2.3,Comamonas testosteroni,2,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.4/ct,T22.2.4,Comamonas testosteroni,2,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.2.5/ct,T22.2.5,Comamonas testosteroni,2,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/ct,T22.3.1,Comamonas testosteroni,3,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/at,T22.3.1,Agrobacterium tumefaciens,3,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.1/ms,T22.3.1,Microbacterium saperdae,3,1,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/ct,T22.3.2,Comamonas testosteroni,3,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/at,T22.3.2,Agrobacterium tumefaciens,3,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.2/ms,T22.3.2,Microbacterium saperdae,3,2,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/ct,T22.3.3,Comamonas testosteroni,3,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/at,T22.3.3,Agrobacterium tumefaciens,3,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.3/ms,T22.3.3,Microbacterium saperdae,3,3,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/ct,T22.3.4,Comamonas testosteroni,3,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/at,T22.3.4,Agrobacterium tumefaciens,3,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.4/ms,T22.3.4,Microbacterium saperdae,3,4,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/ct,T22.3.5,Comamonas testosteroni,3,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/at,T22.3.5,Agrobacterium tumefaciens,3,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.3.5/ms,T22.3.5,Microbacterium saperdae,3,5,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/oa,T22.4.1,Ochrobactrum anthropi,4,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/ct,T22.4.1,Comamonas testosteroni,4,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/at,T22.4.1,Agrobacterium tumefaciens,4,1,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.1/ms,T22.4.1,Microbacterium saperdae,4,1,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/oa,T22.4.2,Ochrobactrum anthropi,4,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/ct,T22.4.2,Comamonas testosteroni,4,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/at,T22.4.2,Agrobacterium tumefaciens,4,2,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.2/ms,T22.4.2,Microbacterium saperdae,4,2,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/oa,T22.4.3,Ochrobactrum anthropi,4,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ct,T22.4.3,Comamonas testosteroni,4,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/at,T22.4.3,Agrobacterium tumefaciens,4,3,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.3/ms,T22.4.3,Microbacterium saperdae,4,3,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/oa,T22.4.4,Ochrobactrum anthropi,4,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ct,T22.4.4,Comamonas testosteroni,4,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/at,T22.4.4,Agrobacterium tumefaciens,4,4,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.4/ms,T22.4.4,Microbacterium saperdae,4,4,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/oa,T22.4.5,Ochrobactrum anthropi,4,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ct,T22.4.5,Comamonas testosteroni,4,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/at,T22.4.5,Agrobacterium tumefaciens,4,5,T22,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T22.4.5/ms,T22.4.5,Microbacterium saperdae,4,5,T22,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.1/at,T33.1.1,Agrobacterium tumefaciens,1,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.1.2/at,T33.1.2,Agrobacterium tumefaciens,1,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.1.rep/ct,T33.2.1.rep,Comamonas testosteroni,2,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.2.rep/ct,T33.2.2.rep,Comamonas testosteroni,2,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.3.rep/ct,T33.2.3.rep,Comamonas testosteroni,2,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.4.rep/ct,T33.2.4.rep,Comamonas testosteroni,2,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.2.5.rep/ct,T33.2.5.rep,Comamonas testosteroni,2,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ct,T33.3.1,Comamonas testosteroni,3,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/at,T33.3.1,Agrobacterium tumefaciens,3,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.1/ms,T33.3.1,Microbacterium saperdae,3,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ct,T33.3.2,Comamonas testosteroni,3,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/at,T33.3.2,Agrobacterium tumefaciens,3,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.2/ms,T33.3.2,Microbacterium saperdae,3,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ct,T33.3.3,Comamonas testosteroni,3,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/at,T33.3.3,Agrobacterium tumefaciens,3,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.3/ms,T33.3.3,Microbacterium saperdae,3,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ct,T33.3.4,Comamonas testosteroni,3,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/at,T33.3.4,Agrobacterium tumefaciens,3,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.4/ms,T33.3.4,Microbacterium saperdae,3,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ct,T33.3.5,Comamonas testosteroni,3,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/at,T33.3.5,Agrobacterium tumefaciens,3,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.3.5/ms,T33.3.5,Microbacterium saperdae,3,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/oa,T33.4.1,Ochrobactrum anthropi,4,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ct,T33.4.1,Comamonas testosteroni,4,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/at,T33.4.1,Agrobacterium tumefaciens,4,1,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.1/ms,T33.4.1,Microbacterium saperdae,4,1,T33,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/oa,T33.4.2,Ochrobactrum anthropi,4,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ct,T33.4.2,Comamonas testosteroni,4,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/at,T33.4.2,Agrobacterium tumefaciens,4,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.2/ms,T33.4.2,Microbacterium saperdae,4,2,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/oa,T33.4.3.rep,Ochrobactrum anthropi,4,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/ct,T33.4.3.rep,Comamonas testosteroni,4,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/at,T33.4.3.rep,Agrobacterium tumefaciens,4,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.3.rep/ms,T33.4.3.rep,Microbacterium saperdae,4,3,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/oa,T33.4.4,Ochrobactrum anthropi,4,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/ct,T33.4.4,Comamonas testosteroni,4,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/at,T33.4.4,Agrobacterium tumefaciens,4,4,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.4/ms,T33.4.4,Microbacterium saperdae,4,4,T33,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/oa,T33.4.5,Ochrobactrum anthropi,4,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/ct,T33.4.5,Comamonas testosteroni,4,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/at,T33.4.5,Agrobacterium tumefaciens,4,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T33.4.5/ms,T33.4.5,Microbacterium saperdae,4,5,T33,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.1.1/at,T44.1.1,Agrobacterium tumefaciens,1,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.1.2/at,T44.1.2,Agrobacterium tumefaciens,1,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.1/ct,T44.2.1,Comamonas testosteroni,2,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.2.rep/ct,T44.2.2.rep,Comamonas testosteroni,2,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.3.rep/ct,T44.2.3.rep,Comamonas testosteroni,2,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.4.rep/ct,T44.2.4.rep,Comamonas testosteroni,2,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.2.5.rep/ct,T44.2.5.rep,Comamonas testosteroni,2,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/ct,T44.3.1,Comamonas testosteroni,3,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/at,T44.3.1,Agrobacterium tumefaciens,3,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.1/ms,T44.3.1,Microbacterium saperdae,3,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/ct,T44.3.2,Comamonas testosteroni,3,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/at,T44.3.2,Agrobacterium tumefaciens,3,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.2/ms,T44.3.2,Microbacterium saperdae,3,2,T44,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/ct,T44.3.3.rep,Comamonas testosteroni,3,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/at,T44.3.3.rep,Agrobacterium tumefaciens,3,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.3.rep/ms,T44.3.3.rep,Microbacterium saperdae,3,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/ct,T44.3.4,Comamonas testosteroni,3,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/at,T44.3.4,Agrobacterium tumefaciens,3,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.4/ms,T44.3.4,Microbacterium saperdae,3,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/ct,T44.3.5,Comamonas testosteroni,3,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/at,T44.3.5,Agrobacterium tumefaciens,3,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.3.5/ms,T44.3.5,Microbacterium saperdae,3,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/oa,T44.4.1,Ochrobactrum anthropi,4,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/ct,T44.4.1,Comamonas testosteroni,4,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/at,T44.4.1,Agrobacterium tumefaciens,4,1,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.1/ms,T44.4.1,Microbacterium saperdae,4,1,T44,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/oa,T44.4.2,Ochrobactrum anthropi,4,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/ct,T44.4.2,Comamonas testosteroni,4,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/at,T44.4.2,Agrobacterium tumefaciens,4,2,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.2/ms,T44.4.2,Microbacterium saperdae,4,2,T44,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/oa,T44.4.3,Ochrobactrum anthropi,4,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/ct,T44.4.3,Comamonas testosteroni,4,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/at,T44.4.3,Agrobacterium tumefaciens,4,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.3/ms,T44.4.3,Microbacterium saperdae,4,3,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/oa,T44.4.4,Ochrobactrum anthropi,4,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/ct,T44.4.4,Comamonas testosteroni,4,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/at,T44.4.4,Agrobacterium tumefaciens,4,4,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.4/ms,T44.4.4,Microbacterium saperdae,4,4,T44,illumina,False,coverage
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/oa,T44.4.5.rep,Ochrobactrum anthropi,4,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ct,T44.4.5.rep,Comamonas testosteroni,4,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/at,T44.4.5.rep,Agrobacterium tumefaciens,4,5,T44,illumina,True,None
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ms,T44.4.5.rep,Microbacterium saperdae,4,5,T44,illumina,True,None
