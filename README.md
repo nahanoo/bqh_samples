@@ -3,7 +3,7 @@
 ## Meta data
 
 You can find the metadata for every sample including it's data path [here](./samples/sample_sheet.csv).  
-Additionally, I wrote a `python` parser for all samples which conveniently stores metadata and data-paths which turned out very handy for scripting. The parser can be simply installed with `pip`, more info can be found in the section [python parser](#python-parser).
+Additionally, I wrote a `python` Samples class storing metadata and data paths in dictionaries which turned out very handy for scripting. The parser can be simply installed with `pip`, more info can be found in the section [python parser](#python-parser).
 
 ## Software environment
 
