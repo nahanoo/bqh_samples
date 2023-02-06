@@ -3,16 +3,13 @@
 ## Meta data
 
 You can find the metadata for every sample including it's data path [here](./samples/sample_sheet.csv).  
-Additionally, I wrote a `python` parser for all samples which conveniently stores metadata and data-paths in dictionaries allowing to conveniently iterate over samples. The parser can be simply installed with `pip`, more info can be found in the section [python parser](#python-parser).
+Additionally, I wrote a `python` parser for all samples which conveniently stores metadata and data-paths which turned out very handy for scripting. The parser can be simply installed with `pip`, more info can be found in the section [python parser](#python-parser).
 
 ## Software environment
 
 I tried to install all packages with conda (small hint; you can use mamba instead which is a much faster re-implementation of conda). 
 You can find the package versions in [evomicrocomm.yml](evomicrocomm.yml) which you can also use to recreate the exact same environment.
 All bioinformatic steps were performed using [Snakemake](https://snakemake.readthedocs.io/en/stable/) as a workflow language. It's fairly easy to learn and I can recommend it if you need to chain many command line tools.
-They way it works is that you define a rule for every command line tool, where you define the input and output files. You then tell Snakemake the output file you want to generate and it will automatically execute all steps necessary to get to that output file.   
-You can use wildcards to run Snakemake on directory trees and it comes with a very handy cluster support.  
-
 
 ## Ancestral strains
 
