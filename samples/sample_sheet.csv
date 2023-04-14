@@ -212,7 +212,7 @@ dir_name,sample_name,strain,treatment,cosm,timepoint,platform,valid,problem
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ct,T44.4.5.rep,Comamonas testosteroni,4,5,T44,illumina,True,None
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/at,T44.4.5.rep,Agrobacterium tumefaciens,4,5,T44,illumina,True,None
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/T44.4.5.rep/ms,T44.4.5.rep,Microbacterium saperdae,4,5,T44,illumina,True,None
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/10-1_At.3.3.1.1.sort.bam,RNA_at.3.3,Agrobacterium tumefaciens,3,3,T44,RNA,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/10-1_At.3.3.1.1.sort.bam,RNA_at.3.3.1,Agrobacterium tumefaciens,3,3,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/25_Ct.2.3.1.sort.bam,RNA_ct.2.3,Comamonas testosteroni,2,3,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/27_Ct.2.5.1.sort.bam,RNA_ct.2.5,Comamonas testosteroni,2,5,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/15_Ct.4.3.1.sort.bam,RNA_ct.4.3,Comamonas testosteroni,4,3,T44,RNA,,
@@ -222,11 +222,11 @@ dir_name,sample_name,strain,treatment,cosm,timepoint,platform,valid,problem
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/08-1_Ct.Anc.1.sort.bam,RNA_ct.Anc.1,Comamonas testosteroni,0,1,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/04_Ct.3.2.1.sort.bam,RNA_ct.3.2,Comamonas testosteroni,3,2,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/09_Ct.4.5.1.sort.bam,RNA_ct.4.5,Comamonas testosteroni,4,5,T44,RNA,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/10-2_At.3.3.1.2.sort.bam,RNA_at.3.3,Agrobacterium tumefaciens,3,3,T44,RNA,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/10-2_At.3.3.1.2.sort.bam,RNA_at.3.3.2,Agrobacterium tumefaciens,3,3,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/14_Ct.2.2.1.sort.bam,RNA_ct.2.2,Comamonas testosteroni,2,2,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/19_Ct.3.5.1.sort.bam,RNA_ct.3.5,Comamonas testosteroni,3,5,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/28_Ct.3.1.1.sort.bam,RNA_ct.3.1,Comamonas testosteroni,3,1,T44,RNA,,
-/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/02-2_At.4.5.1.2.sort.bam,RNA_at.4.5,Agrobacterium tumefaciens,4,5,T44,RNA,,
+/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/02-2_At.4.5.1.2.sort.bam,RNA_at.4.5.2,Agrobacterium tumefaciens,4,5,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/16_Ct.4.4.1.sort.bam,RNA_ct.4.4,Comamonas testosteroni,4,4,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/26_Ct.2.4.1.sort.bam,RNA_ct.2.4,Comamonas testosteroni,2,4,T44,RNA,,
 /work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data/rna_seq/ras_flow/tmp/MWF/genome/bamFileSort/03_At.1.2.1.sort.bam,RNA_at.1.2,Agrobacterium tumefaciens,1,2,T44,RNA,,
