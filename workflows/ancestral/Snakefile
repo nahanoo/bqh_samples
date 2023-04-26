@@ -117,3 +117,16 @@ rule annotate:
         bakta --db ~/work/bakta/db/ --keep-contig-headers --threads {threads} {input.assembly} --output {params.out_dir}\
         --genus {params.genus} --species {params.species}
         """
+
+rule sourmash:
+    input:
+        read1 = join(work,'{strain}','read1.filtered.fastq'),
+        read2 = join(work,'{strain}','read2.filtered.fastq')
+    output:
+        join(work,'{sample}','{strain}','reads.sig')
+    threads:
+        1
+    shell:
+        """
+        sourmash sketch dna -p scaled=1000,k=31 {input} --merge merged -o {output}
+        """
