@@ -59,10 +59,10 @@ class Samples:
 
         work = "/work/FAC/FBM/DMF/smitri/evomicrocomm/genome_size/data"
         self.references = {
-            "Agrobacterium tumefaciens": join(work, "at", "reference.fasta"),
-            "Comamonas testosteroni": join(work, "ct", "reference.fasta"),
-            "Microbacterium saperdae": join(work, "ms", "reference.fasta"),
-            "Ochrobactrum anthropi": join(work, "oa", "reference.fasta"),
+            "Agrobacterium tumefaciens": join(work, 'ancestors', "at", "assembly.contigs.polypolish.fasta"),
+            "Comamonas testosteroni": join(work, 'ancestors', "ct", "assembly.contigs.polypolish.fasta"),
+            "Microbacterium saperdae": join(work, 'ancestors', "ms", "assembly.contigs.polypolish.fasta"),
+            "Ochrobactrum anthropi": join(work, 'ancestors', "oa", "assembly.contigs.polypolish.fasta"),
         }
 
         """For every strain and treatment we create a  list of dictionaries with
@@ -86,3 +86,7 @@ class Samples:
             meta["treatment"] = int(row["treatment"])
             meta["cosm"] = int(row["cosm"])
             self.strains[row["strain"]].append(meta)
+
+        self.labels = {}
+        for n, l in zip(self.df['sample_name'], self.df['labels']):
+            self.labels[n] = l
